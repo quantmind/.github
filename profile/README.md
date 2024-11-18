@@ -1,6 +1,6 @@
 # Quantmind
 
-We provides software and consulting for web and electronic trading applications, quantitative data analysis, visualization and machine learning.
+We provides software and consulting for electronic trading applications and quantitative finance.
 
 Here some useful links
 
